@@ -1,0 +1,7 @@
+int a = 10;
+int b = 20;
+int c = a + b;
+int d = 50;
+c = 100;
+printf("%d", c);
+return 0;
